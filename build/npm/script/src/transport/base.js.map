@@ -1,0 +1,1 @@
+{"version":3,"file":"base.js","sourceRoot":"","sources":["../../../src/src/transport/base.ts"],"names":[],"mappings":";;;AAAA,0CAA+C;AA+C/C,kDAAkD;AAClD,MAAa,cAAe,SAAQ,2BAAgB;IAClD,YAAY,OAAgB,EAAE,OAAsB;QAClD,KAAK,CAAC,OAAO,EAAE,OAAO,CAAC,CAAC;QACxB,IAAI,CAAC,IAAI,GAAG,gBAAgB,CAAC;IAC/B,CAAC;CACF;AALD,wCAKC"}

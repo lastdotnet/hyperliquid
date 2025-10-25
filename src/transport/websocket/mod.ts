@@ -8,7 +8,8 @@ import {
 import { HyperliquidEventTarget } from "./_hyperliquid_event_target.ts";
 import { WebSocketAsyncRequest, WebSocketRequestError } from "./_websocket_async_request.ts";
 
-export { ReconnectingWebSocketError, WebSocketRequestError };
+export { ReconnectingWebSocket, ReconnectingWebSocketError, WebSocketRequestError };
+export type { ReconnectingWebSocketOptions };
 
 type MaybePromise<T> = T | Promise<T>;
 

@@ -1,0 +1,1 @@
+{"version":3,"file":"_base.d.ts","sourceRoot":"","sources":["../../../../src/src/api/subscription/_base.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,yBAAyB,CAAC;AAEtE,mDAAmD;AACnD,MAAM,WAAW,yBAAyB,CAAC,CAAC,SAAS,sBAAsB,GAAG,sBAAsB;IAClG,4DAA4D;IAC5D,SAAS,EAAE,CAAC,CAAC;CACd"}
